@@ -1,0 +1,24 @@
+{
+  "name": "alfred-the-butler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/trahloff/alfred-the-butler.git"
+  },
+  "author": "rahloff@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/trahloff/alfred-the-butler/issues"
+  },
+  "homepage": "https://gitlab.com/trahloff/alfred-the-butler#README",
+  "dependencies": {
+    "ibm_db": "1.0.0",
+    "slackbots": "0.5.3"
+  }
+}

@@ -1,0 +1,12 @@
+Books
+node_modules
+npm-debug.log
+daemon
+*.7z
+*.epub
+*.mobi
+*.pdf
+*.zip
+*.log
+.idea
+yarn.lock

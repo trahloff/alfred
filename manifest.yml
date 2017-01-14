@@ -1,0 +1,9 @@
+applications:
+- path: .
+  no-route: true
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: alfred_the_butler
+  host: alfred_the_butler
+  disk_quota: 512M
